@@ -12,10 +12,10 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import img1 from "../src/assets/images/Projects/img1.png";
-import img2 from "../src/assets/images/Projects/img2.png";
-import img3 from "../src/assets/images/Projects/img3.png";
-import myperson from "../src/assets/images/Projects/myperson.jpg";
+import img1 from "./assets/images/Projects/img1.png";
+import img2 from "./assets/images/Projects/img2.png";
+import img3 from "./assets/images/Projects/img3.png";
+import myperson from "./assets/images/Projects/myperson.jpg";
 
 // import avatar1 from "./assets/images/Testimonials/avatar1.png";
 // import avatar2 from "./assets/images/Testimonials/avatar2.png";
